@@ -1,0 +1,5 @@
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassWritter\bin\Debug\ClassWritter.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassWritter\bin\Debug\ClassWritter.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassWritter\obj\Debug\ClassWriter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassWritter\obj\Debug\ClassWritter.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassWritter\obj\Debug\ClassWritter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\bin\Debug\ClassReader.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\bin\Debug\ClassReader.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\bin\Debug\ClassStudent.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\bin\Debug\ClassStudent.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\obj\Debug\ClassReader.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\obj\Debug\ClassReader.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassReader\obj\Debug\ClassReader.pdb

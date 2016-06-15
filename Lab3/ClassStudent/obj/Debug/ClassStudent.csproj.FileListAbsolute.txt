@@ -1,0 +1,4 @@
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassStudent\bin\Debug\ClassStudent.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassStudent\bin\Debug\ClassStudent.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassStudent\obj\Debug\ClassStudent.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\ClassStudent\obj\Debug\ClassStudent.pdb

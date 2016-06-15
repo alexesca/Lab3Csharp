@@ -1,0 +1,25 @@
+c:\users\miranda_2\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+c:\users\miranda_2\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\miranda_2\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\miranda_2\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+c:\users\miranda_2\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\ClassReader.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\ClassStudent.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\ClassReader.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2\bin\Debug\ClassStudent.pdb
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\obj\Debug\Lab2.exe
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\Lab2.exe
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\ClassReader.dll
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\ClassStudent.dll
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\ClassReader.pdb
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\bin\Debug\ClassStudent.pdb
+C:\Users\Alex\Google Drive\CS176\Lab3\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache

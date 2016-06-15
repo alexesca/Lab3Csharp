@@ -1,0 +1,16 @@
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\bin\Debug\Lab2Tests.dll
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\bin\Debug\Lab2Tests.pdb
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\bin\Debug\Lab2.exe
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\bin\Debug\Lab2.pdb
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\obj\Debug\Lab2Tests.csprojResolveAssemblyReference.cache
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\obj\Debug\Lab2Tests.dll
+C:\Users\Miranda_2\Documents\Visual Studio 2015\Projects\Lab2\Lab2Tests\obj\Debug\Lab2Tests.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\bin\Debug\Lab2Tests.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\bin\Debug\Lab2Tests.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\bin\Debug\Lab2.exe
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\bin\Debug\Lab2.pdb
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\obj\Debug\Lab2Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\obj\Debug\Lab2Tests.dll
+C:\Users\Alex\Google Drive\CS176\Lab2\Lab2\Lab2Tests\obj\Debug\Lab2Tests.pdb
